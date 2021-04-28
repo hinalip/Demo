@@ -11,7 +11,7 @@ import CoreData
 struct ContentView: View {
     
     var body: some View {
-        Text("Hello, World!").padding()
+        Text("Hello, World2!").padding()
             .font(.title)
             .foregroundColor(.purple)
             
